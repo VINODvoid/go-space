@@ -14,7 +14,7 @@ A structured Go learning environment — built project by project, concept by co
 | 1 | [calculator](./calculator) | types, functions, switch, os.Args, strconv |
 | 2 | [todo](./todo) | structs, slices, methods, multiple files |
 | 3 | [wordcounter](./wordcounter) | file I/O, bufio, maps, error handling |
-| 4 | HTTP server *(next)* | net/http, handlers, routing |
+| 4 | [httpserver](./httpserver) | net/http, handlers, routing, middleware |
 
 ### Intermediate
 | # | Project | Concepts |
