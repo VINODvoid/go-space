@@ -13,8 +13,8 @@ A structured Go learning environment — built project by project, concept by co
 |---|---------|----------|
 | 1 | [calculator](./calculator) | types, functions, switch, os.Args, strconv |
 | 2 | [todo](./todo) | structs, slices, methods, multiple files |
-| 3 | word counter *(next)* | file I/O, bufio, error handling |
-| 4 | HTTP server | net/http, handlers, routing |
+| 3 | [wordcounter](./wordcounter) | file I/O, bufio, maps, error handling |
+| 4 | HTTP server *(next)* | net/http, handlers, routing |
 
 ### Intermediate
 | # | Project | Concepts |
