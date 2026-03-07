@@ -19,7 +19,7 @@ A structured Go learning environment — built project by project, concept by co
 ### Intermediate
 | # | Project | Concepts |
 |---|---------|----------|
-| 1 | REST API | interfaces, JSON, middleware |
+| 1 | [restapi](./restapi) | interfaces, JSON, status codes, routing |
 | 2 | web scraper | goroutines, WaitGroups, channels |
 | 3 | task manager | file persistence, flags package |
 | 4 | rate limiter | channels, tickers, goroutine patterns |
