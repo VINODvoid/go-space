@@ -21,7 +21,7 @@ A structured Go learning environment — built project by project, concept by co
 |---|---------|----------|
 | 1 | [restapi](./restapi) | interfaces, JSON, status codes, routing |
 | 2 | [scraper](./scraper) | goroutines, WaitGroups, channels |
-| 3 | task manager | file persistence, flags package |
+| 3 | [taskmanager](./taskmanager) | file persistence, flags package, JSON |
 | 4 | rate limiter | channels, tickers, goroutine patterns |
 
 ### Advanced
